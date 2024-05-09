@@ -1,11 +1,32 @@
-<mxfile host="app.diagrams.net" modified="2024-05-09T11:53:16.750Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/122.0.0.0 Safari/537.36 Edg/122.0.0.0" etag="0VGaa6PJWZokAP8x7_Rv" version="24.3.1" type="github">
+<mxfile host="app.diagrams.net" modified="2024-05-09T12:01:02.593Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/122.0.0.0 Safari/537.36 Edg/122.0.0.0" etag="PUEj3kFqV5uELipwPyqS" version="24.3.1" type="github">
   <diagram name="第 1 页" id="YowLrkrMRttfu4AoxrCK">
-    <mxGraphModel dx="954" dy="655" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="565" dy="460" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
-        <mxCell id="qoCdy1dcOLvOe7hzZTuf-1" value="dada&lt;div&gt;&lt;br&gt;&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="130" y="130" width="120" height="60" as="geometry" />
+        <mxCell id="qoCdy1dcOLvOe7hzZTuf-1" value="&lt;div style=&quot;font-size: 20px;&quot;&gt;集中式代理模式&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;labelBackgroundColor=default;strokeColor=none;opacity=0;fontSize=20;" vertex="1" parent="1">
+          <mxGeometry width="150" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="qoCdy1dcOLvOe7hzZTuf-2" value="&lt;div style=&quot;font-size: 20px;&quot;&gt;嵌入式代理模式&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;labelBackgroundColor=default;strokeColor=none;opacity=0;" vertex="1" parent="1">
+          <mxGeometry y="290" width="155" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="qoCdy1dcOLvOe7hzZTuf-4" value="单体式服务场景" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
+          <mxGeometry x="215" y="12" width="110" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="qoCdy1dcOLvOe7hzZTuf-5" value="单主机应用" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
+          <mxGeometry x="310" width="80" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="qoCdy1dcOLvOe7hzZTuf-6" value="多主机应用" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
+          <mxGeometry x="310" y="30" width="80" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="qoCdy1dcOLvOe7hzZTuf-7" value="" style="whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="70" y="130" width="310" height="120" as="geometry" />
+        </mxCell>
+        <mxCell id="qoCdy1dcOLvOe7hzZTuf-8" value="主机" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
+          <mxGeometry x="55" y="98" width="50" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="qoCdy1dcOLvOe7hzZTuf-9" value="nginx反向代理" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="95" y="160" width="120" height="30" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
